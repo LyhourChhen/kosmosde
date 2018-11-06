@@ -8,7 +8,7 @@ sudo apt-get install --no-install-recommends obmenu -y
 sudo apt-get install --no-install-recommends tint2 -y
 sudo apt-get install --no-install-recommends nitrogen -y
 sudo apt-get install --no-install-recommends plank -y 
-sudo apt-get install --no-install-recommends pacmanfm -y
+sudo apt-get install --no-install-recommends pcmanfm -y
 sudo apt-get install --no-install-recommends firefox -y
 sudo apt-get install --no-install-recommends volti -y
 sudo apt-get install --no-install-recommends wicd -y 
