@@ -25,4 +25,4 @@ mkdir /home/kosmos/.config/tint2
 cp /home/kosmos/kosmosde/autostart.sh /home/kosmos/.config/openbox/autostart.sh
 cp /home/kosmos/kosmosde/rc.xml /home/kosmos/.config/openbox/
 cp /home/kosmos/kosmosde/kosmos_panel.tint2rc /home/kosmos/.config/tint2/
-
+reboot
